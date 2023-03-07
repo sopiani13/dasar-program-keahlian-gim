@@ -1,0 +1,19 @@
+Console.WriteLine("Hello, World!"); //steatment adalah perintah untuk menampilkan tanpa adanya proses
+Console.WriteLine(2);
+Console.WriteLine(2 + 3);//ekspresi yaitu perintah yg ada proses 
+//komentar tidak akan dijalankan oleh program
+
+Console.WriteLine("--------TUGAS STATEMENT--------");
+Console.Write("Nama  : ");
+Console.WriteLine("Budi Utomo");
+Console.Write("Tempat Lahir  : ");
+Console.WriteLine("Sidoarjo");
+Console.Write("Umur  : ");
+Console.WriteLine(20);
+Console.Write("Asal Sekolah  : ");
+Console.WriteLine("SMPN 100 Sidoarjo");
+Console.WriteLine("--------TUGAS EKSPRESI--------");
+Console.Write("Luas persegi panjang dengan panjang dengan panjang 2 dan lebar 4 adalah : ");
+Console.WriteLine((2 + 4) * 2);
+Console.Write("Luas lingkaran dengan jari-jari 3 adalah : ");
+Console.WriteLine(3.14 * 3 * 3);
